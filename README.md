@@ -35,9 +35,7 @@ A collaborative filtering-based recommendation engine built using Singular Value
 ├── data_cleaning.py          # Data preprocessing
 ├── eda_visualization.py      # Exploratory analysis
 ├── feature_engineering.py    # Feature creation
-├── svd_model.py              # Model training
-├── evaluation.py             # Model evaluation
-└── recommendations.py        # Recommendation engine
+├── model_building.py         # Model training, Model evaluation, Recommendation engine
 ```
 
 ## 🚀 How to Run
